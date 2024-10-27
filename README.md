@@ -1,10 +1,6 @@
 ---
 
-### 1. **Repository Setup**
-   - **Repository Name**: `AI-Roadmap-for-Beginners`
-   - **Readme**: Create a `README.md` with an overview, including prerequisites, the roadmap outline, and a brief introduction to each topic.
-
-### 2. **Folder Structure**
+### **Folder Structure**
    Organize folders by stages or themes. Here’s a suggested structure:
 
    ```
@@ -32,7 +28,7 @@
        └── Project3-Predictive-Maintenance
    ```
 
-### 3. **Roadmap Stages and Content**
+### **Roadmap Stages and Content**
 
 #### **Stage 1: Foundations**
    - **1. Math**: Concepts of linear algebra, calculus, probability, and statistics.
