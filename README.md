@@ -1,5 +1,3 @@
-Creating an AI roadmap on GitHub can help beginners and intermediate learners systematically build their skills. Here’s a structured roadmap to organize in a GitHub repository, including a clear path and project ideas.
-
 ---
 
 ### 1. **Repository Setup**
